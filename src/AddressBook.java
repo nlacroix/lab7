@@ -1,5 +1,5 @@
 import java.util.Iterator;
-
+//@author Nicholas Lacroix, Vincent Chan
 /**
    An address book for looking up information about people.
 */

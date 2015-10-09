@@ -7,7 +7,7 @@ public interface AddressBook {
 
    /** 
        Load the dictionary from a source.
-       @param sourceName the name of the source
+     
    */
    void load(String sourceName);
 
